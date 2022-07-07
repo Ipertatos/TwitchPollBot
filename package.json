@@ -1,0 +1,16 @@
+{
+  "name": "twitchpollbot",
+  "version": "1.0.0",
+  "description": "This is a simple bot written for twitch that will allow the host to make polls and allow users to vote on it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ipertatos (George Markakis)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "tmi.js": "^1.8.5"
+  }
+}
